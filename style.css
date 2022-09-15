@@ -1,0 +1,8 @@
+.image_resize{
+    height: 500px;
+    width: 60%;
+    margin: 100px 300px;
+    border-radius: 10px;
+    /* transform: translate(-600px);
+    transition: transform 1s ease-out 1s; */
+}
